@@ -4,6 +4,8 @@
 ## Main Interest:
 The main interest of this project is to combine the benefits of Waze and Booky applications. It shows a list of restaurants nearest to the location of the user and displays its menu and price range for convenience.
 
+ ![alt text] (https://github.com/HannahGlean/FooBoo/blob/master/ProjectFlowchart.jpg)
+
 ## Significance:
 1. It could save time for students since they would not have to walk around Taft just to find a restaurant that offers budget-friendly and great-tasting food. 
 2. It illustrates the application of Data Structures in real-life situations.
